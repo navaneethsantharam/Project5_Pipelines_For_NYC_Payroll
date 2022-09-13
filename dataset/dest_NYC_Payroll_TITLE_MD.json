@@ -1,0 +1,25 @@
+{
+	"name": "dest_NYC_Payroll_TITLE_MD",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_dedicates",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlDWTable",
+		"schema": [
+			{
+				"name": "TitleCode",
+				"type": "varchar"
+			},
+			{
+				"name": "TitleDescription",
+				"type": "varchar"
+			}
+		],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "NYC_Payroll_TITLE_MD"
+		}
+	}
+}
