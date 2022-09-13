@@ -5,13 +5,13 @@
 		"factoryName": {
 			"value": "navdatafactory100"
 		},
-		"ls_nycdb_connectionString": {
+		"ls_dedicates_connectionString": {
 			"value": ""
 		},
 		"ls_nyc_adls2_accountKey": {
 			"value": ""
 		},
-		"ls_dedicates_connectionString": {
+		"ls_nycdb_connectionString": {
 			"value": ""
 		},
 		"ls_nyc_adls2_properties_typeProperties_url": {
