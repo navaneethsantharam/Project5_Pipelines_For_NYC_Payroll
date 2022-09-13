@@ -1,5 +1,5 @@
 {
-	"name": "dest_NYC_Payroll_Data",
+	"name": "dest_NYC_Payroll_Data_sqldb",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "ls_nycdb",
