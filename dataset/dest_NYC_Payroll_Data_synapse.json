@@ -1,5 +1,5 @@
 {
-	"name": "ls_NYC_Payroll_Data",
+	"name": "dest_NYC_Payroll_Data_synapse",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "ls_dedicates",
