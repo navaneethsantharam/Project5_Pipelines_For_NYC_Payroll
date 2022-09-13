@@ -1,5 +1,5 @@
 {
-	"name": "nycpayroll_2021_csv",
+	"name": "src_nycpayroll_2021_csv",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "ls_nyc_adls2",
