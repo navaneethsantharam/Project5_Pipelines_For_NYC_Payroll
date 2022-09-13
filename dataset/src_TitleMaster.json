@@ -1,5 +1,5 @@
 {
-	"name": "ls_TitleMaster",
+	"name": "src_TitleMaster",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "ls_nyc_adls2",
